@@ -1,8 +1,8 @@
-package countng;
+package countngsystem;
 
 import java.util.Scanner;
 
-public class Counter {
+public class CountingSystemTransformer {
     /*
     0 = 0
     1 = 1
